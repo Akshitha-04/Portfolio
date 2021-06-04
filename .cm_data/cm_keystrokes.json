@@ -36,6 +36,41 @@
             "keyStrokeTimeStamp": "Fri Jun 04 2021 19:44:38",
             "keyStrokeInfo": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n\r\n<head>\r\n  <meta charset=\"utf-8\">\r\n  <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\r\n\r\n  <title>Portfolio Details - Akshitha's Portfolio</title>\r\n  <meta content=\"\" name=\"description\">\r\n  <meta content=\"\" name=\"keywords\">\r\n\r\n  <!-- Favicons -->\r\n  <link href=\"assets/img/favicon.png\" rel=\"icon\">\r\n  <link href=\"assets/img/apple-touch-icon.png\" rel=\"apple-touch-icon\">\r\n\r\n  <!-- Google Fonts -->\r\n  <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,500,500i,600,600i,700,700i&subset=cyrillic\" rel=\"stylesheet\">\r\n\r\n  <!-- Vendor CSS Files -->\r\n  <link href=\"assets/vendor/bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\">\r\n  <link href=\"assets/vendor/bootstrap-icons/bootstrap-icons.css\" rel=\"stylesheet\">\r\n  <link href=\"assets/vendor/boxicons/css/boxicons.min.css\" rel=\"stylesheet\">\r\n  <link href=\"assets/vendor/glightbox/css/glightbox.min.css\" rel=\"stylesheet\">\r\n  <link href=\"assets/vendor/swiper/swiper-bundle.min.css\" rel=\"stylesheet\">\r\n\r\n  <!-- Template Main CSS File -->\r\n  <link href=\"assets/css/style.css\" rel=\"stylesheet\">\r\n\r\n\r\n\r\n          <div class=\"col-lg-4\">\r\n            <div class=\"portfolio-info\">\r\n              <h3>Project information</h3>\r\n              <ul>\r\n                <li><strong>Project Name:</strong> MSIT CONNECT </li>\r\n                <li><strong>Technologies Used:</strong><br>Mern Stack  </li>\r\n                <li><strong>Description:</strong></li>\r\n                \r\n                <a href=\"https://github.com/iiit-msit/MSIT-TPO.git\"> Version 0: </a><br>\r\n               \r\n                <a href=\"https://github.com/Mohankandregula-pixel/MSIT-Connect-version-1.git\"> Version 1: </a><br>\r\n              \r\n                <a href=\"https://github.com/Mohankandregula-pixel/MSIT-connect-version-2.git\"> Version 2:  </a><br>\r\n         \r\n                <a href=\"https://github.com/Mohankandregula-pixel/MSIT-connect-version-3.git\"> Version 3: </a><br>\r\n\r\n                 <li> <b>SPRINT-1: </b></li>\r\n                Completed Login and Registration forms for frontend \r\n                <li> <b>SPRINT-2: </b> </li>\r\n                Connected Login form and Registration to backend using Mongodb atlas \r\n                <li> <b>SPRINT-3: </b></li>\r\n                Completed all forms Login, Register, Student, Teacher and Connected the database to backend  \r\n                <li> <b>SPRINT-4: </b></li>\r\n                Edited the Profile and Completed the part of TPO should post the data and users should able to see it.\r\n                \r\n              </ul>\r\n            </div>\r\n           \r\n          </div>\r\n\r\n        </div>\r\n\r\n      </div>\r\n    </section><!-- End Portfolio Details Section -->\r\n\r\n  </main><!-- End #main -->\r\n\r\n\r\n\r\n  <a href=\"#\" class=\"back-to-top d-flex align-items-center justify-content-center\"><i class=\"bi bi-arrow-up-short\"></i></a>\r\n\r\n  <!-- Vendor JS Files -->\r\n  <script src=\"assets/vendor/bootstrap/js/bootstrap.bundle.min.js\"></script>\r\n  <script src=\"assets/vendor/glightbox/js/glightbox.min.js\"></script>\r\n  <script src=\"assets/vendor/isotope-layout/isotope.pkgd.min.js\"></script>\r\n  <script src=\"assets/vendor/php-email-form/validate.js\"></script>\r\n  <script src=\"assets/vendor/purecounter/purecounter.js\"></script>\r\n  <script src=\"assets/vendor/swiper/swiper-bundle.min.js\"></script>\r\n  <script src=\"assets/vendor/waypoints/noframework.waypoints.js\"></script>\r\n\r\n  <!-- Template Main JS File -->\r\n  <script src=\"assets/js/main.js\"></script>\r\n\r\n</body>\r\n\r\n</html>",
             "position": "1,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Jun 04 2021 20:01:56",
+            "keyStrokeInfo": "",
+            "position": "36,59"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Jun 04 2021 20:01:56",
+            "keyStrokeInfo": "",
+            "position": "36,58"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Jun 04 2021 20:01:56",
+            "keyStrokeInfo": "",
+            "position": "36,57"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Jun 04 2021 20:01:56",
+            "keyStrokeInfo": "",
+            "position": "36,56"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Jun 04 2021 20:01:57",
+            "keyStrokeInfo": " ",
+            "position": "36,56"
         }
     ]
 }
